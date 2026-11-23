@@ -73,3 +73,5 @@ plt.title("Customer Segments")
 <img width="682" height="395" alt="image" src="https://github.com/user-attachments/assets/c91c2be8-2e3e-4ff0-bac9-b2a46b1e5191" />
 
 ## Result:
+
+The program was successfully excecuted and run on system
